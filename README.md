@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/alexandr30novaes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandr30novaes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandr30novaes&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandremediq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandremediq&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -51,9 +51,9 @@
                                                   
 
  <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexandr30novaes/alexandr30novaes/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexandr30novaes/alexandr30novaes/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alexandr30novaes/alexandr30novaes/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexandreMediq/alexandremediq/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexandreMediq/alexandremediq/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alexandremediq/alexandremediq/output/github-contribution-grid-snake.svg">
 </picture>
  
 
@@ -61,7 +61,7 @@
 
 <div align="center">
   <br><p align="centre"><b><h1>👇Visitors Count👇</h1></b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{alexandr30novaes}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{alexandremediq}/count.svg" /></p> 
 <br>
 </div>
  
