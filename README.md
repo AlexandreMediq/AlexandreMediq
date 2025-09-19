@@ -20,6 +20,7 @@
   <img align="center" alt="Alexandre-Ts" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Alexandre-Js" height="70" width="70"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alexandre-Nodejs" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="Alexandre-Ts" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <br></br>
   <img align="center" alt="Alexandre-mysql" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Alexandre-mongodb" height="70" width="70" src= "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" />
